@@ -4,11 +4,7 @@ import java.awt.BorderLayout;
 import java.awt.GridLayout;
 
 
-import javax.swing.BorderFactory;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
+import javax.swing.*;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -37,12 +33,15 @@ public class GUI implements ActionListener {
         panel.setLayout(new GridLayout(3, 3));
         panel.add(button);
         panel.add(label);
+        
 
         frame.add(panel, BorderLayout.CENTER);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("Alberts Revenge arena for the battle versus Intility");
         frame.pack();
         frame.setVisible(true);
+        
+        
     
     }
     
