@@ -1,0 +1,27 @@
+Obj1000
+15. mai
+
+
+
+
+to do :
+practice questions on canvas
+les ferdig javaonlinebook
+Fullfør panopto
+Eksamensett 2021
+se likheter mellomn 2020/2021 Eksamen
+
+Not to do:
+no Swing - module 10
+
+
+how Mostaq grades :
+1. Producing the correct output
+2. Following best practice naming conventions
+3. Proper indentation
+4. Effective logic
+5. Readability
+
+most important :
+inheritance
+polymorphism
