@@ -11,7 +11,7 @@ public class PasswordCracker {
     private static final String CHARSET = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()-_=+[{]}\\|;:\'\",<.>/?";
     private static final int MAX_PASSWORD_LENGTH = 10;
     private static final int MAX_THREADS = 8;
-    private static final String PASSWORD_HASH = "098f6bcd4621d373cade4e832627b4f6"; 
+    private static final String PASSWORD_HASH = "05927dc6aaedc0b55d3e3e98cde13b7c"; 
 
     public static void main(String[] args) throws NoSuchAlgorithmException {
         MessageDigest md = MessageDigest.getInstance("MD5");
