@@ -1,6 +1,6 @@
 public class Streng2 {
     public static void main(String[] args) {
-        String str1 = "Albert ";
+        String str1 = "Albert";
         String str2 = "123456788";
 
         int length = (str1.length());

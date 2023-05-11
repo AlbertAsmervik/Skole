@@ -4,9 +4,9 @@ public class Streng {
 
         String output = "michael";
         int length = output.length();
-         output = output.substring(length-1);
+         String lastletter = output.substring(length-1);
 
 
-        System.out.println(output + output);
+        System.out.println(lastletter + lastletter);
     }
 }

@@ -1,3 +1,5 @@
+package MyProjects;
+
 import java.util.Random;
 
 public class PasswordGenerator {
@@ -18,3 +20,4 @@ public class PasswordGenerator {
         System.out.println(new String(password));
     }
 }
+
