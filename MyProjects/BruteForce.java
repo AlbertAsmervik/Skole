@@ -3,7 +3,7 @@ package MyProjects;
 
 public class BruteForce {
     public static void main(String[] args) {
-        bruteForce(10, "Albert2001");
+        bruteForce(10, "Hei");
     }
 
     public static void bruteForce(int size, String target) {
